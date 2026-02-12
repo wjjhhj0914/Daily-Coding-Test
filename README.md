@@ -10,3 +10,4 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-02-03 | Programmers | [피자 나눠 먹기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814) |  Lv.0  | [Go](<./Programmers/Level0/sharePizza(1).swift>) | 몫과 나머지 연산 활용 |
 | 2026-02-12 | Programmers | [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) |  Lv.0  | [Go](./Programmers/Level0/DoubleAnArr.swift)     |                       |
 | 2026-02-12 | Programmers | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821)       |  Lv.0  | [Go](./Programmers/Level0/reverseArr.swift)      |                       |
+| 2026-02-12 | Programmers | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833)       |  Lv.0  | [Go](./Programmers/Level0/SliceArray.swift)      |                       |
