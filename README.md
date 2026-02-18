@@ -17,3 +17,4 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-02-16 | Programmers | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)               |  Lv.1  | [Go](./Programmers/Level1/AddDigits.swift)            | 배열과 기초 수학    |
 | 2026-02-16 | Programmers | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)       |  Lv.1  | [Go](./Programmers/Level1/RemoveTheSmallestNum.swift) | 배열과 기초 수학    |
 | 2026-02-18 | Programmers | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)   |  Lv.1  | [Go](./Programmers/Level1/DividedNumArr.swift)        | 배열과 기초 수학    |
+| 2026-02-18 | Programmers | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                 |  Lv.1  | [Go](./Programmers/Level1/SumOfMatrices.swift)        | 배열과 기초 수학    |
