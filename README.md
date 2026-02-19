@@ -19,3 +19,4 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-02-18 | Programmers | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)   |  Lv.1  | [Go](./Programmers/Level1/DividedNumArr.swift)        | 배열과 기초 수학    |
 | 2026-02-18 | Programmers | [행렬의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/12950)                 |  Lv.1  | [Go](./Programmers/Level1/SumOfMatrices.swift)        | 배열과 기초 수학    |
 | 2026-02-18 | Programmers | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)          |  Lv.1  | [Go](./Programmers/Level1/HidePhoneNumber.swift)      | 문자열 다루기       |
+| 2026-02-19 | Programmers | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)          |  Lv.1  | [Go](./Programmers/Level1/CreateWeirdString.swift)    | 문자열 다루기       |
