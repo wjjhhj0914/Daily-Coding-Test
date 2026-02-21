@@ -21,3 +21,4 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-02-18 | Programmers | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)          |  Lv.1  | [Go](./Programmers/Level1/HidePhoneNumber.swift)      | 문자열 다루기       |
 | 2026-02-19 | Programmers | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)          |  Lv.1  | [Go](./Programmers/Level1/CreateWeirdString.swift)    | 문자열 다루기       |
 | 2026-02-20 | Programmers | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)             |  Lv.1  | [Go](./Programmers/Level1/RoughlyMadeKeypad.swift)    | 문자열 다루기       |
+| 2026-02-21 | Programmers | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) |  Lv.1  | [Go](./Programmers/Level1/SortStrings.swift)          | 문자열 다루기       |
