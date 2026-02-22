@@ -23,3 +23,4 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-02-20 | Programmers | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)             |  Lv.1  | [Go](./Programmers/Level1/RoughlyMadeKeypad.swift)    | 문자열 다루기       |
 | 2026-02-21 | Programmers | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) |  Lv.1  | [Go](./Programmers/Level1/SortStrings.swift)          | 문자열 다루기       |
 | 2026-02-22 | Programmers | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)            |  Lv.1  | [Go](./Programmers/Level1/RecommendNewID.swift)       | 문자열 다루기       |
+| 2026-02-22 | Programmers | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)                |  Lv.1  | [Go](./Programmers/Level1/CiperForTwo.swift)          | 문자열 다루기       |
