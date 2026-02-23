@@ -25,3 +25,4 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-02-22 | Programmers | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)            |  Lv.1  | [Go](./Programmers/Level1/RecommendNewID.swift)       | 구현력과 시뮬레이션 |
 | 2026-02-22 | Programmers | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)                |  Lv.1  | [Go](./Programmers/Level1/CiperForTwo.swift)          | 문자열 다루기       |
 | 2026-02-23 | Programmers | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)              |  Lv.1  | [Go](./Programmers/Level1/CleanUpDesktop.swift)       | 구현력과 시뮬레이션 |
+| 2026-02-23 | Programmers | [1차 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)                |  Lv.1  | [Go](./Programmers/Level1/SecretMap.swift)            | 구현력과 시뮬레이션 |
