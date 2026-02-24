@@ -27,3 +27,4 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-02-23 | Programmers | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)              |  Lv.1  | [Go](./Programmers/Level1/CleanUpDesktop.swift)       | 구현력과 시뮬레이션 |
 | 2026-02-23 | Programmers | [1차 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)                |  Lv.1  | [Go](./Programmers/Level1/SecretMap.swift)            | 구현력과 시뮬레이션 |
 | 2026-02-24 | Programmers | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)             |  Lv.2  | [Go](./Programmers/Level2/SliceN2Array.swift)         | 구현력과 시뮬레이션 |
+| 2026-02-24 | Programmers | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)     |  Lv.2  | [Go](./Programmers/Level1/privacyTerms.swift)         | 구현력과 시뮬레이션 |
