@@ -32,3 +32,4 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-02-26 | Programmers | [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)                |  Lv.1  | [Go](./Programmers/Level1/PressKeypad.swift)          | 구현력과 시뮬레이션 |
 | 2026-02-26 | Programmers | [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484) |  Lv.1  | [Go](./Programmers/Level1/LottoRanking.swift)         | 구현력과 시뮬레이션 |
 | 2026-02-26 | Programmers | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)             |  Lv.1  | [Go](./Programmers/Level1/AddMissingNum.swift)        | 해시                |
+| 2026-02-26 | Programmers | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)          |  Lv.1  | [Go](./Programmers/Level1/PickAndAddTwo.swift)        | 해시                |
