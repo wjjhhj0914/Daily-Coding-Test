@@ -35,6 +35,5 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-02-26 | Programmers | [두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)          |  Lv.1  | [Go](./Programmers/Level1/PickAndAddTwo.swift)        | 해시                |
 | 2026-02-26 | Programmers | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                         |  Lv.2  | [Go](./Programmers/Level2/ClothesCombinations.swift)  | 해시                |
 | 2026-02-26 | Programmers | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)                   |  Lv.1  | [Go](./Programmers/Level1/MemoryScore.swift)          | 해시                |
-| 2026-02-27 | Programmers | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)                   |  Lv.1  | [Go](./Programmers/Level1/MemoryScore.swift)          | 해시                |
 | 2026-02-27 | Programmers | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)                 |  Lv.1  | [Go](./Programmers/Level1/RunningRace.swift)          | 해시                |
 | 2026-02-27 | Programmers | [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)               |  Lv.1  | [Go](./Programmers/Level1/ReportResult.swift)         | 해시                |
