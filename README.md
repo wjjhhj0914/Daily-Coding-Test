@@ -40,5 +40,6 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-02-27 | Programmers | [영어 끝말잇기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12981)           |  Lv.1  | [Go](./Programmers/Level1/Hash/EnglishWordChainGame.swift)          | 해시                |
 | 2026-02-28 | Programmers | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)         |  Lv.1  | [Go](./Programmers/Level1/Stack%20&%20Queue/ClawMachine.swift)      | 스택                |
 | 2026-02-28 | Programmers | [행버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)               |  Lv.1  | [Go](./Programmers/Level1/Stack%20&%20Queue/makeBurger.swift)       | 스택                |
-| 2026-02-28 | Programmers | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                  |  Lv.1  | [Go](./Programmers/Level2/Stack%20&%20Queue/ValidParentheses.swift) | 스택                |
+| 2026-02-28 | Programmers | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                  |  Lv.2  | [Go](./Programmers/Level2/Stack%20&%20Queue/ValidParentheses.swift) | 스택                |
 | 2026-02-28 | Programmers | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/15994)                    |  Lv.1  | [Go](./Programmers/Level1/Stack%20&%20Queue/DeckOfCards.swift)      | 큐                  |
+| 2026-02-28 | Programmers | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)              |  Lv.2  | [Go](./Programmers/Level1/Stack%20&%20Queue/DeckOfCards.swift)      | 스택                |
