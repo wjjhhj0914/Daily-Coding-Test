@@ -43,3 +43,4 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-02-28 | Programmers | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                  |  Lv.2  | [Go](./Programmers/Level2/Stack%20&%20Queue/ValidParentheses.swift)      | 스택                |
 | 2026-02-28 | Programmers | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/15994)                    |  Lv.1  | [Go](./Programmers/Level1/Stack%20&%20Queue/DeckOfCards.swift)           | 큐                  |
 | 2026-02-28 | Programmers | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)              |  Lv.2  | [Go](./Programmers/Level2/Stack%20&%20Queue/RemovePairedCharacter.swift) | 스택                |
+| 2026-03-1  | Programmers | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)                |  Lv.2  | [Go](./Programmers/Level2/Stack%20&%20Queue/RotateParentheses.swift)     | 스택                |
