@@ -46,3 +46,4 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-03-01 | Programmers | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)                |  Lv.2  | [Go](./Programmers/Level2/Stack%20&%20Queue/RotateParentheses.swift)     | 스택                |
 | 2026-03-01 | Programmers | [1차 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)                     |  Lv.2  | [Go](./Programmers/Level2/Stack%20&%20Queue/First-LevelCache.swift)      | 큐                  |
 | 2026-03-01 | Programmers | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                      |  Lv.1  | [Go](./Programmers/Level1/Sort/KthNumber.swift)                          | 정렬                |
+| 2026-03-01 | Programmers | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                         |  Lv.1  | [Go](./Programmers/Level1/Sort/Budget.swift)                             | 정렬                |
