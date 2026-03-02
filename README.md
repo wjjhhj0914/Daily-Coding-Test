@@ -49,3 +49,4 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-03-01 | Programmers | [예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982)                         |  Lv.1  | [Go](./Programmers/Level1/Sort/Budget.swift)                             | 정렬                |
 | 2026-03-01 | Programmers | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/13580)                    |  Lv.1  | [Go](./Programmers/Level1/Sort/AppleSeller.swift)                        | 정렬                |
 | 2026-03-02 | Programmers | [명예의 전당(1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)              |  Lv.1  | [Go](./Programmers/Level1/Sort/HallOfFame.swift)                         | 정렬                |
+| 2026-03-02 | Programmers | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                       |  Lv.1  | [Go](./Programmers/Level1/Sort/FailureRates.swift)                       | 정렬                |
