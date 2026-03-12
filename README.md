@@ -56,3 +56,4 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-03-04 | Programmers | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                     |  Lv.1  | [Go](./Programmers/Level1/ExhaustiveSearch/MockExam.swift)               | 완전탐색            |
 | 2026-03-04 | Programmers | [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)                      |  Lv.1  | [Go](./Programmers/Level1/ExhaustiveSearch/Trio.swift)                   | 완전탐색            |
 | 2026-03-11 | Programmers | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                         |  Lv.2  | [Go](./Programmers/Level2/ExhaustiveSearch/Carpet.swift)                 | 완전탐색            |
+| 2026-03-12 | Programmers | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)                       |  Lv.2  | [Go](./Programmers/Level2/ExhaustiveSearch/Fatique.swift)                | 완전탐색            |
