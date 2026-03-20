@@ -62,3 +62,4 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-03-17 | Programmers | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)      |  Lv.1  | [Go](./Programmers/Level1/Watermelon.swift)                              | 구현력              |
 | 2026-03-18 | Programmers | [내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128)                         |  Lv.1  | [Go](./Programmers/Level1/내적.swift)                                    | 구현력, 수학        |
 | 2026-03-19 | Programmers | [콜라츠](https://school.programmers.co.kr/learn/courses/30/lessons/12943)                       |  Lv.1  | [Go](./Programmers/Level1/콜라츠.swift)                                  | 구현력, 수학        |
+| 2026-03-20 | Programmers | [콜라츠](https://school.programmers.co.kr/learn/courses/30/lessons/13678)                       |  Lv.1  | [Go](./Programmers/Level1/기사단원의무기.swift)                          | 구현력, 수학        |
