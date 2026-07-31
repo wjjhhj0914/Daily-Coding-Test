@@ -65,3 +65,7 @@ Swift로 풀어가는 코딩테스트 문제 풀이 기록 저장소
 | 2026-03-20 | Programmers | [콜라츠](https://school.programmers.co.kr/learn/courses/30/lessons/13678)                       |  Lv.1  | [Go](./Programmers/Level1/기사단원의무기.swift)                          | 구현력, 수학        |
 | 2026-03-21 | Programmers | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)         |  Lv.1  | [Go](./Programmers/Level1/가운데글자가져오기.swift)                      | 구현력, 문자열      |
 | 2026-03-22 | Programmers | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)         |  Lv.1  | [Go](./Programmers/Level1/서울에서김서방찾기.swift)                      | 배열, 문자열        |
+| 2026-07-31 | Programmers | [두 수의 차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120803)           |  Lv.0  | [Go](./Programmers/Level0/두_수의_차_구하기.swift)                       | 기초 구현           |
+| 2026-07-31 | Programmers | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)               |  Lv.0  | [Go](./Programmers/Level0/나머지_구하기.swift)                           | 기초 구현           |
+| 2026-07-31 | Programmers | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)                   |  Lv.0  | [Go](./Programmers/Level0/나이_출력.swift)                               | 기초 구현           |
+| 2026-07-31 | Programmers | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120816)               |  Lv.0  | [Go](<./Programmers/Level0/피자_나눠_먹기(3).swift>)                     | 기초 구현           |
